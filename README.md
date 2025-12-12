@@ -1,7 +1,7 @@
-![My photo](Banner_Kian_Maleki.png)
+
 
 <p align="center">
-  <img src="Banner_Kian_Maleki.png" width="200" style="border-radius: 50%;" />
+  <img src="Banner_Kian_Maleki.png" width="300" style="border-radius: 50%;" />
 </p>
 
 ## Hi there 👋
