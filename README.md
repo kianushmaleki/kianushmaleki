@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="Banner_Kian_Maleki.png" width="500" style="border-radius: 50%; margin-right: 30px;" />
+  <img src="Banner_Kian_Maleki.png" width="450" style="border-radius: 50%; margin-right: 30px;" />
   <div>
     <h2>Hi there 👋</h2>
     <p>
