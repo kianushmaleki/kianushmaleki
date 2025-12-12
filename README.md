@@ -1,9 +1,9 @@
-<table style="width: 100%;">
+<table style="width:100%;">
   <tr>
-    <td style="width: 600px; vertical-align: top;">
-      <img src="Banner_Kian_Maleki.png" width="580" style="border-radius: 50%;" />
+    <td style="width:50%; vertical-align: top;">
+      <img src="Banner_Kian_Maleki.png" style="width:100%; border-radius: 50%;" />
     </td>
-    <td style="vertical-align: top;">
+    <td style="width:50%; vertical-align: top;">
       <h2>Hi there 👋</h2>
       <p>
         Data Scientist & Ph.D. Physicist with a strong foundation in quantitative analysis and computational modeling.
@@ -14,4 +14,3 @@
     </td>
   </tr>
 </table>
-
