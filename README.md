@@ -1,5 +1,4 @@
-
-<img src"Banner_Kian_Maleki.png width *300px>
+![My photo](Banner_Kian_Maleki.png)
 
 
 
