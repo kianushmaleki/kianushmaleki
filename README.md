@@ -1,23 +1,16 @@
-
-
-<p align="center">
-  <img src="Banner_Kian_Maleki.png" width="300" style="border-radius: 50%;" />
-</p>
-
-## Hi there 👋
-Data Scientist & Ph.D. Physicist with a strong foundation in quantitative analysis and computational modeling. Leverages 5+ years of academic research experience to solve complex problems using Python, SQL, and advanced Machine Learning techniques. Proficient in translating large-scale, noisy datasets into actionable insights through rigorous statistical methods. Currently refining industry-standard engineering practices (CI/CD, Scikit-Learn, TensorFlow) to apply scientific rigor to real-world business challenges
-
-<!--
-**kianushmaleki/kianushmaleki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td style="width: 300px;">
+      <img src="Banner_Kian_Maleki.png" width="250" style="border-radius: 50%;" />
+    </td>
+    <td>
+      <h2>Hi there 👋</h2>
+      <p>
+        Data Scientist & Ph.D. Physicist with a strong foundation in quantitative analysis and computational modeling.
+        Leverages 5+ years of academic research experience to solve complex problems using Python, SQL, and advanced Machine Learning techniques.
+        Proficient in translating large-scale, noisy datasets into actionable insights through rigorous statistical methods.
+        Currently refining industry-standard engineering practices (CI/CD, Scikit-Learn, TensorFlow) to apply scientific rigor to real-world business challenges.
+      </p>
+    </td>
+  </tr>
+</table>
