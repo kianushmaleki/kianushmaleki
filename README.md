@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 300px;">
-      <img src="Banner_Kian_Maleki.png" width="250" style="border-radius: 50%;" />
+      <img src="Banner_Kian_Maleki.png" width="300" style="border-radius: 50%;" />
     </td>
     <td>
       <h2>Hi there 👋</h2>
