@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="Banner_Kian_Maleki.png" width="250" style="border-radius: 50%;" />
+      <img src="Banner_Kian_Maleki.png" width="380" style="border-radius: 50%;" />
     </td>
     <td>
       <h2>Hi there 👋</h2>
@@ -14,4 +14,5 @@
     </td>
   </tr>
 </table>
+
 
