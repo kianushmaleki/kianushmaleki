@@ -1,5 +1,5 @@
 ## Hi there 👋
-![My photo](profile_photo.jpg)
+![My photo](header.png)
 
 <!--
 **kianushmaleki/kianushmaleki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
