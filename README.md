@@ -1,4 +1,4 @@
-<table style="width:100%;">
+<table style="width:100%; table-layout:fixed;">
   <tr>
     <td style="width:50%; vertical-align: top;">
       <img src="Banner_Kian_Maleki.png" style="width:100%; border-radius: 50%;" />
