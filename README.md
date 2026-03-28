@@ -3,10 +3,7 @@
   <td style="width:50%; vertical-align:top;">
     <h2>Hi there 👋</h2>
     <p>
-      Data Scientist & Ph.D. Physicist with a strong foundation in quantitative analysis and computational modeling. 
-      Leverages 5+ years of academic research experience to solve complex problems using Python, SQL, and advanced Machine Learning techniques. 
-      Proficient in translating large-scale, noisy datasets into actionable insights through rigorous statistical methods. 
-      Currently refining industry-standard engineering practices (CI/CD, Scikit-Learn, TensorFlow) to apply scientific rigor to real-world business challenges.
+      I’m Kian, a <strong>PhD Physicist turned MLOps Engineer</strong> dedicated to bridging the gap between rigorous scientific research and enterprise-ready AI deployment. With over a decade of experience in high-performance computational modeling, I specialize in architecting end-to-end machine learning lifecycles—ranging from context-aware <strong>RAG assistants</strong> to automated <strong>CI/CD pipelines</strong> using DVC, MLflow, and GitHub Actions. My expertise lies in translating complex mathematical theory into scalable, reliable software, ensuring that models don't just succeed in research notebooks but thrive in production environments through real-time drift monitoring and performance optimization.
     </p>
   </td>
 
